@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Check out the website here - https://chat-rooms-7c8b7.web.app/
+### Check out the website here - https://chat-rooms-7c8b7.web.app/
 
 ## Available Scripts
 
