@@ -1,0 +1,37 @@
+.sidebarChat-main{
+    /* overflow: hidden; */
+    display: flex;
+    align-items: center;
+    margin-left: 0px;
+    color: white;
+    cursor:  pointer;
+    background-color: rgb(41, 41, 41);
+    font-weight: 100;
+    font-size: x-small;
+    /* justify-content: center; */
+    
+    /* text-decoration: underline; */
+}
+.sidebarChat_info{
+    margin-left: 5px;
+}
+#light .sidebarChat-head{
+    background-color: #f0f2f5;
+    color:black;
+}
+#light .sidebarChat-main{
+    background-color: #f0f2f5;
+    color:black;
+}
+.sidebarChat-head{
+    /* flex: 1; */
+    /* overflow: hidden; */
+    display: flex;
+    align-items: center;
+    margin-left: 0px;
+    color: white;
+    cursor:  pointer;
+    background-color: rgb(41, 41, 41);
+    justify-content: center;
+    text-decoration: underline;
+}
